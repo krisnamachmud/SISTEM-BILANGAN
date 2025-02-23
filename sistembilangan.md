@@ -56,40 +56,47 @@ a.	10101010
 0x2^0 = 0
 128 + 0 + 32 + 0 + 8 + 0 + 2 + 0 = 170 
 Hasil: 170 10
-________________________________________ 
-4	Konversikan bilangan oktal  di bawah ini ke dalam bilangan biner 
-a.	21708 	b. 35718 
 
-a. 21708
+4.Konversikan bilangan biner di bawah ini ke dalam bilangan oktal 
+a. 1010111110012 
+b. 1100101101112
 
-28= 010 (2)
-18 = 001 (2)
-78 = 111 (2)
-08 = 000 (2)
+Jawavam
 
-2170 8= 010 001 111 000 (2)
-           b. 35718
-38 = 011 (2)
-58 = 101 (2)
-78= 111 (2)
-18= 001 (2)
+a.101 011 111 0012 
+Konversi: 
+101 = 5 
+011 = 3 
+111 = 7 
+001 = 1 
+Hasil: 101 011 111 0012 = 5371 (a)
+b.1 1 0 0 1 0 1 1 0 1 1 12 
+Konversi: 
+110 = 6 
+010 = 2 
+110 = 6 
+111 = 7 
+Hasil: 110 010 110 1112 = 6267 (b)
 
-           35718= 011 101 111 001 (2)
+5.Konversikan bilangan oktal di bawah ini ke dalam bilangan biner 
+a. 21708 
+b. 35718
 
+		Jawaban
+a.2170 
+Konversi: 
+2 = 010 
+1 = 001 
+7 = 111 
+0 = 000 
+Hasil: 2170 = 010 001 111 000 (a)
+b.3571 Konversi: 
+3 = 011 
+5 = 101 
+7 = 111 
+1 = 001 
+Hasil: 3571 = 011 101 111 001 (b)
 
-
-
-5
-Konversikan bilangan oktal di bawah ini ke dalam bilangan biner 
-a. 21708
-   JAWAB: 
-  2=0010
-  1=0001
-  7=0111  
-  0=0000
-0010000101110000(2)
-
-a.	0 1 0 0 0 1 1 1 1 0 0 0 
 6
 Konversikan bilangan desimal di bawah ini ke dalam bilangan heksadesimal 
 a. 178010 
