@@ -34,18 +34,11 @@ a. 1234 10
 10.	1 ÷ 2 = 0, sisa 1
 Membaca sisa dari bawah ke atas: 10011010010 (2)
 
- 
-	
-
-
-
-
-
-
-
-3	Konversikan bilangan biner di bawah ini ke dalam bilangan desimal 
-a.	10101010  
+3
+Konversikan bilangan biner di bawah ini ke dalam bilangan desimal   
  a. 10101010 (2)
+ JAWABAN:
+ 
 1x2^7 = 128
 0x2^6 = 0
 1x2^5 = 32
@@ -61,7 +54,7 @@ Hasil: 170 10
 a. 1010111110012 
 b. 1100101101112
 
-Jawavam
+Jawaban:
 
 a.101 011 111 0012 
 Konversi: 
@@ -82,7 +75,8 @@ Hasil: 110 010 110 1112 = 6267 (b)
 a. 21708 
 b. 35718
 
-		Jawaban
+Jawaban
+
 a.2170 
 Konversi: 
 2 = 010 
@@ -118,10 +112,7 @@ a. 43981
 8
 Konversikan bilangan pecahan desimal di bawah ini ke dalam bilangan biner 
 a. 0,312510 
-
-
 JAWAB:
-Jawaban
 		
 a.	0,312510 
 Langkah-langkah: 
@@ -171,8 +162,7 @@ Hasil dari 348,654₁₀ ≈ 15C,A78
 11
 Konversikan bilangan di bawah ini ke dalam bilangan desimal 
 a. 010100011,0011111012 
-
-a.	010100011,0011111012 
+ 
 Langkah Langkah: 
 0 × 211 + 1 × 210 + 0 × 29 + 1 × 28 + 0 × 27 + 0 × 26 + 0 × 25 + 1 × 24 + 1 × 23 + 0 × 22 + 1 × 21 + 0 × 20 
 0 + 1024 + 0 + 256 + 0 + 0 + 0 + 16 + 8 + 0 + 2 + 0 = 163,245 
@@ -180,9 +170,7 @@ Hasil: 010100011,0011111012 = 163,24510
  
 12
 Rubahlah bilangan biner di bawah ini ke dalam bentuk BCD 
-a. 101001100001112 
-
-a.	101001100001112 
+a.101001100001112 
 Langkah-langkah
 0010 = 2
 1001 = 9
@@ -190,11 +178,6 @@ Langkah-langkah
 0111 = 7
 Hasil dari 101001100001112 = 2987 (a)
  
-
-
-
-
-
 13
 Rubahlah bentuk BCD di bawah ini ke dalam bilangan biner 
 a. 1987 
@@ -219,9 +202,6 @@ Langkah Langkah
 001	= 1
 BCD dari biner 111111010012 = 3751 (a)
  
-
-
-
 15
 Rubahlah bilangan biner di bawah ini ke dalam BCH 
 a. 11011111001011102 
@@ -234,9 +214,8 @@ Langkah Langkah
 0010 = 2
 1110 = E
 BCH dari biner 11011111001011102 = DF2E (a)
+
  
-
-
 16
 Rubahlah Bentuk BCH di bawah ini ke dalam bilangan heksadesimal 
 a. F0DE 
